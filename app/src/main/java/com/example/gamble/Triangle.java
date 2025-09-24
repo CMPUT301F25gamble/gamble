@@ -1,4 +1,4 @@
 package com.example.gamble;
 
-public class Triangle {
+public class Triangle extends Shape {
 }
